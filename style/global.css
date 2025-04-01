@@ -60,8 +60,6 @@ html {
 
 body {
   background-color: var(--background-color);
-  overflow-x: hidden;
-  
 }
 
 h1,
