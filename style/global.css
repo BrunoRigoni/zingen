@@ -55,6 +55,7 @@ html {
   line-height: 1.6;
   color: var(--text-color);
   overflow-x: hidden ;
+  scroll-behavior: smooth;
 }
 
 body {
